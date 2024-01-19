@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">desafio</string>
+
+    <string name="txt_moveis">Filmes</string>
+
+    <string name="txt_series">Series</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
